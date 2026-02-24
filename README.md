@@ -51,6 +51,7 @@
     * **Alert**: Active Buzzer
 
 <img src="https://github.com/Jungbin12/Smart-wheelchair/blob/40cf56e8d5787853cc9198fa572b70eefaa6b31a/%EA%B8%B0%EB%8A%A5%20%EC%9E%91%EB%8F%99%20img%20(3).png" width="700" alt="시스템 구성도">
+
 ---
 
 ## 4. 핵심 알고리즘 Flow
