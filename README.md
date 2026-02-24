@@ -18,6 +18,7 @@
 <p align="center">
    <img src="https://github.com/Jungbin12/Smart-wheelchair/blob/40cf56e8d5787853cc9198fa572b70eefaa6b31a/%EA%B8%B0%EB%8A%A5%20%EB%B8%94%EB%A1%9D%EB%8F%84%20img%20(2).png" width="400" alt="점자블록 인식 화면">
 </p>
+
 ---
 
 ## 2. 주요 기능 및 기술적 특징
