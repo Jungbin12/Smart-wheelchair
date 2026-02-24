@@ -15,7 +15,9 @@
     * YOLO v8 모델을 활용한 점자 블록(점형/선형) 실시간 객체 인식 최적화
     * 초음파 센서 데이터 처리를 통한 긴급 제동 및 부저 알림 로직 개발
     * 시스템 안정성을 위한 Multi-threading 구조 설계
-
+<p align="center">
+   <img src="https://github.com/Jungbin12/Smart-wheelchair/blob/40cf56e8d5787853cc9198fa572b70eefaa6b31a/%EA%B8%B0%EB%8A%A5%20%EB%B8%94%EB%A1%9D%EB%8F%84%20img%20(2).png" width="400" alt="점자블록 인식 화면">
+</p>
 ---
 
 ## 2. 주요 기능 및 기술적 특징
@@ -47,6 +49,7 @@
     * **Actuator**: MG996R High Torque Servo Motor (Brake)
     * **Alert**: Active Buzzer
 
+<img src="https://github.com/Jungbin12/Smart-wheelchair/blob/40cf56e8d5787853cc9198fa572b70eefaa6b31a/%EA%B8%B0%EB%8A%A5%20%EC%9E%91%EB%8F%99%20img%20(3).png" width="700" alt="시스템 구성도">
 ---
 
 ## 4. 핵심 알고리즘 Flow
