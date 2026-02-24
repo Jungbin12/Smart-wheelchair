@@ -1,7 +1,8 @@
 # ♿ Smart Wheelchair for the Visually Impaired
-성결대학교 졸업프로젝트
+<p>성결대학교 졸업프로젝트</p>
 > **AI 실시간 점자 블록 인식 및 자동 긴급 제동 시스템**
 > 본 프로젝트는 시각장애인이 휠체어 주행 중 겪는 안전 문제를 해결하기 위해 Deep Learning 기반의 노면 인식과 초음파 센서 기반의 자동 제동 기술을 결합한 스마트 보행 보조 장치입니다.
+<img src="https://github.com/Jungbin12/Smart-wheelchair/blob/c0f9050b6aa123eba4e26c5816e83dda62cd67fb/%EC%A0%84%EC%B2%B4%20%EC%99%B8%EA%B4%80%20img%20(1).png" width="800" alt="휠체어 전체 사진">
 
 ---
 
